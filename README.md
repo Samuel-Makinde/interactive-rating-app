@@ -24,6 +24,8 @@ Users should be able to:
 - See the "Thank you" card state after submitting a rating
 
 ### Screenshot
+![desktop-design](https://user-images.githubusercontent.com/79846013/223248127-28915f9c-b6ff-46e7-92ed-eb8dbf2724d6.jpg)
+![desktop-thank-you-state](https://user-images.githubusercontent.com/79846013/223248418-0bcc28e3-4fa2-4073-bdc4-b99d195c455b.jpg)
 
 
 ### Links
